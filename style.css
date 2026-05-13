@@ -37,6 +37,10 @@ body{
     transition: 0.5s ease-in-out;
 }
 
+.pfp-card{
+overflow: x-hidden;
+}
+
 /* FEATURES CARD ICON */
 
 .card.custom-card:hover .card-text,
